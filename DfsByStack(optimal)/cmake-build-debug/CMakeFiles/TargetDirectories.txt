@@ -1,0 +1,3 @@
+/home/hossein/CLionProjects/DfsByStack(optimal)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hossein/CLionProjects/DfsByStack(optimal)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hossein/CLionProjects/DfsByStack(optimal)/cmake-build-debug/CMakeFiles/DfsByStack_optimal_.dir
